@@ -1,0 +1,71 @@
+{
+  "id": 1108702553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.286674,38.7538387,-9.286674,38.7538387",
+    "geom:latitude":38.753839,
+    "geom:longitude":-9.286674,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av.Aquilino Ribeiro, 8 Massam\u00e1",
+    "sg:city":"Lisboa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2745-721",
+    "sg:tags":[
+        "certificao",
+        "curso",
+        "curso-tecnico",
+        "cursos",
+        "educao",
+        "ensino",
+        "formao",
+        "qualificao"
+    ],
+    "sg:website":"http://www.computerform.pt/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v27BAPLnxYuxrj6QQ0VVX_38.753839_-9.286674@1308163242"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570869,
+    "wof:geomhash":"c03d7f80dc844d93376e6dc4cecf895d",
+    "wof:hierarchy":[],
+    "wof:id":1108702553,
+    "wof:lastmodified":1474570869,
+    "wof:name":"Computer Form",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "certificao",
+        "curso",
+        "curso-tecnico",
+        "cursos",
+        "educao",
+        "ensino",
+        "formao",
+        "qualificao"
+    ]
+},
+  "bbox": [
+    -9.286674,
+    38.7538387,
+    -9.286674,
+    38.7538387
+],
+  "geometry": {"coordinates":[-9.286674,38.7538387],"type":"Point"}
+}

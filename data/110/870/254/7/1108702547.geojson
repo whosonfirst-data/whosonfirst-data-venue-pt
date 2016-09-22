@@ -1,0 +1,72 @@
+{
+  "id": 1108702547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.1461043,38.7336763,-9.1461043,38.7336763",
+    "geom:latitude":38.733676,
+    "geom:longitude":-9.146104,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Picoas N. 1A",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1050-173",
+    "sg:tags":[
+        "consultancy"
+    ],
+    "sg:website":"http://www.flexivisao.pt",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862465,
+        102191581,
+        85633735,
+        101752087,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40OAxwQge8ozbXQRC0fLpd_38.733676_-9.146104@1308163241"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"c170c9557f670b0fce97d36f8a429f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862465,
+            "region_id":85687367,
+            "venue_id":1108702547
+        }
+    ],
+    "wof:id":1108702547,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Flexi Solutions",
+    "wof:parent_id":85862465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultancy"
+    ]
+},
+  "bbox": [
+    -9.1461043,
+    38.7336763,
+    -9.1461043,
+    38.7336763
+],
+  "geometry": {"coordinates":[-9.1461043,38.7336763],"type":"Point"}
+}

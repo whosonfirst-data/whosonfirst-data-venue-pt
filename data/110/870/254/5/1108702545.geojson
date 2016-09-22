@@ -1,0 +1,63 @@
+{
+  "id": 1108702545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.7985658,39.7366963,-8.7985658,39.7366963",
+    "geom:latitude":39.736696,
+    "geom:longitude":-8.798566,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Miguel Torga n\u00ba 137",
+    "sg:city":"Leiria",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2410-134",
+    "sg:tags":[
+        "business",
+        "business-network",
+        "social-network",
+        "opportunity"
+    ],
+    "sg:website":"http://www.weebiz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JXiEHnc0RT81V4BDLqgFb_39.736696_-8.798566@1308163241"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"d3973501327ec0831908ae18813da878",
+    "wof:hierarchy":[],
+    "wof:id":1108702545,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Weebiz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "business-network",
+        "social-network",
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -8.7985658,
+    39.7366963,
+    -8.7985658,
+    39.7366963
+],
+  "geometry": {"coordinates":[-8.7985658,39.7366963],"type":"Point"}
+}

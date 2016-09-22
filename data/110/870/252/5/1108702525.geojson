@@ -1,0 +1,52 @@
+{
+  "id": 1108702525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-16.9147342,32.6460331,-16.9147342,32.6460331",
+    "geom:latitude":32.646033,
+    "geom:longitude":-16.914734,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenida do Infante 50",
+    "sg:city":"Funchal, Madeira",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9004-521",
+    "sg:website":"http://tinypic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lgAmWRtv2MO9o7eJUbLse_32.646033_-16.914734@1308163237"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"86b19a3728a44ea4ab33523ad68e487b",
+    "wof:hierarchy":[],
+    "wof:id":1108702525,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Tinypic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.9147342,
+    32.6460331,
+    -16.9147342,
+    32.6460331
+],
+  "geometry": {"coordinates":[-16.9147342,32.6460331],"type":"Point"}
+}

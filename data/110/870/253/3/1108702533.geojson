@@ -1,0 +1,96 @@
+{
+  "id": 1108702533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.6439241,41.1446524,-8.6439241,41.1446524",
+    "geom:latitude":41.144652,
+    "geom:longitude":-8.643924,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Praceta S. Pedro da Afurada, n\u00ba 51 - 1\u00ba",
+    "sg:city":"V. N. Gaia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4400-584",
+    "sg:tags":[
+        "saas",
+        "web",
+        "2-0",
+        "software",
+        "lawrd",
+        "lawyers",
+        "law",
+        "timesheet",
+        "productivity",
+        "rentability",
+        "ideas",
+        "idea-system",
+        "teepin"
+    ],
+    "sg:website":"http://muchbeta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799085,
+        102191581,
+        85633735,
+        101752095,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XSRReZ7XCvNIk0D0u6HtX_41.144652_-8.643924@1308163240"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"6aa839858caec8011828c20c15ecdc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752095,
+            "neighbourhood_id":85799085,
+            "region_id":85687411,
+            "venue_id":1108702533
+        }
+    ],
+    "wof:id":1108702533,
+    "wof:lastmodified":1474570868,
+    "wof:name":"muchBeta",
+    "wof:parent_id":85799085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saas",
+        "web",
+        "2-0",
+        "software",
+        "lawrd",
+        "lawyers",
+        "law",
+        "timesheet",
+        "productivity",
+        "rentability",
+        "ideas",
+        "idea-system",
+        "teepin"
+    ]
+},
+  "bbox": [
+    -8.6439241,
+    41.1446524,
+    -8.6439241,
+    41.1446524
+],
+  "geometry": {"coordinates":[-8.6439241,41.1446524],"type":"Point"}
+}

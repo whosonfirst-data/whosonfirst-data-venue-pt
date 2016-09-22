@@ -1,0 +1,86 @@
+{
+  "id": 1108702531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.1460977,38.7445718,-9.1460977,38.7445718",
+    "geom:latitude":38.744572,
+    "geom:longitude":-9.146098,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Chaby Pinheiro 15",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1000-096",
+    "sg:tags":[
+        "web",
+        "design",
+        "it-consulting",
+        "wordpress",
+        "cake-php",
+        "php",
+        "mysql",
+        "lamp"
+    ],
+    "sg:website":"http://www.corefactor.pt",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862487,
+        102191581,
+        85633735,
+        101752087,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43auioBHdsknXB7Kkkxytc_38.744572_-9.146098@1308163240"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"2b4c323eabee71cfd3f1d74322ebd00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862487,
+            "region_id":85687367,
+            "venue_id":1108702531
+        }
+    ],
+    "wof:id":1108702531,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Core Factor",
+    "wof:parent_id":85862487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "design",
+        "it-consulting",
+        "wordpress",
+        "cake-php",
+        "php",
+        "mysql",
+        "lamp"
+    ]
+},
+  "bbox": [
+    -9.1460977,
+    38.7445718,
+    -9.1460977,
+    38.7445718
+],
+  "geometry": {"coordinates":[-9.1460977,38.7445718],"type":"Point"}
+}

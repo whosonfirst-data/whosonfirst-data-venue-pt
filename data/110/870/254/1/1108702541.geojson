@@ -1,0 +1,67 @@
+{
+  "id": 1108702541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.1497216,38.7148364,-9.1497216,38.7148364",
+    "geom:latitude":38.714836,
+    "geom:longitude":-9.149722,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Travessa do Jasmim 10, 1\u0454 Andar",
+    "sg:city":" Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1200-230",
+    "sg:website":"http://www.netsonda.pt",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862527,
+        102191581,
+        85633735,
+        101752087,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fyrYPhHNrwGVAZo44jdKC_38.714836_-9.149722@1308163241"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"66b0598119dd0ccf9ffbaec1b0d7a175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862527,
+            "region_id":85687367,
+            "venue_id":1108702541
+        }
+    ],
+    "wof:id":1108702541,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Netsonda Research",
+    "wof:parent_id":85862527,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1497216,
+    38.7148364,
+    -9.1497216,
+    38.7148364
+],
+  "geometry": {"coordinates":[-9.1497216,38.7148364],"type":"Point"}
+}

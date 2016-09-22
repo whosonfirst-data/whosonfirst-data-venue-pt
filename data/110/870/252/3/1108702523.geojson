@@ -1,0 +1,78 @@
+{
+  "id": 1108702523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.297035,48.882434,2.297035,48.882434",
+    "geom:latitude":48.882434,
+    "geom:longitude":2.297035,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"63, rue Rennequin",
+    "sg:city":"Paris",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"75017",
+    "sg:tags":[
+        "colombia"
+    ],
+    "sg:website":"http://www.bahu.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873985,
+        102191581,
+        85633147,
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KuMVXO2hnZUb2X6Jiw1Lx_48.882434_2.297035@1308163237"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"6bbaa3cc7997168f6777cb7d1abaed50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873985,
+            "region_id":85683497,
+            "venue_id":1108702523
+        }
+    ],
+    "wof:id":1108702523,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Bahu",
+    "wof:parent_id":85873985,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "colombia"
+    ]
+},
+  "bbox": [
+    2.297035,
+    48.882434,
+    2.297035,
+    48.882434
+],
+  "geometry": {"coordinates":[2.297035,48.882434],"type":"Point"}
+}

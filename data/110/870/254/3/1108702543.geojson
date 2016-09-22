@@ -1,0 +1,78 @@
+{
+  "id": 1108702543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.1825712,38.7040325,-9.1825712,38.7040325",
+    "geom:latitude":38.704032,
+    "geom:longitude":-9.182571,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Luis de Cam\u00f5es",
+    "sg:city":"Lisboa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1300",
+    "sg:tags":[
+        "web",
+        "design",
+        "strategy",
+        "ruby"
+    ],
+    "sg:website":"http://www.thinkorange.pt",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85798887,
+        102191581,
+        85633735,
+        101752087,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dily13phxJcfth6QZ1zCU_38.704032_-9.182571@1308163241"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"f3aa48dd768c06c5a2b343a0da89c02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798887,
+            "region_id":85687367,
+            "venue_id":1108702543
+        }
+    ],
+    "wof:id":1108702543,
+    "wof:lastmodified":1474570868,
+    "wof:name":"Think Orange",
+    "wof:parent_id":85798887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "design",
+        "strategy",
+        "ruby"
+    ]
+},
+  "bbox": [
+    -9.1825712,
+    38.7040325,
+    -9.1825712,
+    38.7040325
+],
+  "geometry": {"coordinates":[-9.1825712,38.7040325],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1108702555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.9904431,38.9547137,-8.9904431,38.9547137",
+    "geom:latitude":38.954714,
+    "geom:longitude":-8.990443,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua do Espirito Santo, 2",
+    "sg:city":"Lisboa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2600-140",
+    "sg:tags":[
+        "inventario",
+        "stocks",
+        "inventario-stocks",
+        "contagem-stocks",
+        "consultoria-inventrios",
+        "inventrio-existncias",
+        "contagem-inventrios",
+        "inventrios",
+        "inventarios",
+        "contagens",
+        "inventory",
+        "counting"
+    ],
+    "sg:website":"http://www.contageminventarios.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1La0qNAPyrGJQ1xFSyQB0w_38.954714_-8.990443@1308163241"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570869,
+    "wof:geomhash":"0988794927efe0150bbaa26134204477",
+    "wof:hierarchy":[],
+    "wof:id":1108702555,
+    "wof:lastmodified":1474570869,
+    "wof:name":"Contagem Invent\u00e1rios",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inventario",
+        "stocks",
+        "inventario-stocks",
+        "contagem-stocks",
+        "consultoria-inventrios",
+        "inventrio-existncias",
+        "contagem-inventrios",
+        "inventrios",
+        "inventarios",
+        "contagens",
+        "inventory",
+        "counting"
+    ]
+},
+  "bbox": [
+    -8.9904431,
+    38.9547137,
+    -8.9904431,
+    38.9547137
+],
+  "geometry": {"coordinates":[-8.9904431,38.9547137],"type":"Point"}
+}

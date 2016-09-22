@@ -1,0 +1,76 @@
+{
+  "id": 1108702549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.1462209,38.7523672,-9.1462209,38.7523672",
+    "geom:latitude":38.752367,
+    "geom:longitude":-9.146221,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Ros\u00e1lia de Castro",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1700",
+    "sg:tags":[
+        "tv",
+        "shows",
+        "episodes"
+    ],
+    "sg:website":"http://www.mytvshows.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862483,
+        102191581,
+        85633735,
+        101752087,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X4z0egu9JkqRrSIjAG0oc_38.752367_-9.146221@1308163242"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"758c0a935c8c9368a67efcb15d59f060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862483,
+            "region_id":85687367,
+            "venue_id":1108702549
+        }
+    ],
+    "wof:id":1108702549,
+    "wof:lastmodified":1474570868,
+    "wof:name":"My TV Shows",
+    "wof:parent_id":85862483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tv",
+        "shows",
+        "episodes"
+    ]
+},
+  "bbox": [
+    -9.1462209,
+    38.7523672,
+    -9.1462209,
+    38.7523672
+],
+  "geometry": {"coordinates":[-9.1462209,38.7523672],"type":"Point"}
+}

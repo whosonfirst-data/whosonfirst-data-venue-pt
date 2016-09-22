@@ -1,0 +1,52 @@
+{
+  "id": 1108702559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.6445243,41.2571688,-8.6445243,41.2571688",
+    "geom:latitude":41.257169,
+    "geom:longitude":-8.644524,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"R. Eng. Frederico Ulrich 2650",
+    "sg:city":" Maia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4470-605",
+    "sg:website":"http://www.multiwavephotonics.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ReNy5zh1MTD7eGgbeZPRm_41.257169_-8.644524@1308163241"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570869,
+    "wof:geomhash":"01cf3a682ff624d08301224444931bfb",
+    "wof:hierarchy":[],
+    "wof:id":1108702559,
+    "wof:lastmodified":1474570869,
+    "wof:name":"Multiwave Photonics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6445243,
+    41.2571688,
+    -8.6445243,
+    41.2571688
+],
+  "geometry": {"coordinates":[-8.6445243,41.2571688],"type":"Point"}
+}

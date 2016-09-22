@@ -1,0 +1,78 @@
+{
+  "id": 1108702567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.614826,41.147536,-8.614826,41.147536",
+    "geom:latitude":41.147536,
+    "geom:longitude":-8.614826,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Praceta Guilherme Gomes Fernandes N. 33 - 2\u00ba Direito",
+    "sg:city":"Porto",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4050 - Porto",
+    "sg:tags":[
+        "ria",
+        "web2-0",
+        "web-applications",
+        "social-platform"
+    ],
+    "sg:website":"http://www.ideavity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799001,
+        102191581,
+        85633735,
+        101752093,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d8wMz34lrUE7V5Z4Jpm0l_41.147536_-8.614826@1308163239"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570869,
+    "wof:geomhash":"5e5a450ef6bbb8a1b92c5a7b3e2c6c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":85799001,
+            "region_id":85687411,
+            "venue_id":1108702567
+        }
+    ],
+    "wof:id":1108702567,
+    "wof:lastmodified":1474570869,
+    "wof:name":"Ideavity",
+    "wof:parent_id":85799001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ria",
+        "web2-0",
+        "web-applications",
+        "social-platform"
+    ]
+},
+  "bbox": [
+    -8.614826,
+    41.147536,
+    -8.614826,
+    41.147536
+],
+  "geometry": {"coordinates":[-8.614826,41.147536],"type":"Point"}
+}

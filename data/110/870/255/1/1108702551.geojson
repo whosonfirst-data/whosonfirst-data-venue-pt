@@ -1,0 +1,88 @@
+{
+  "id": 1108702551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.150734,38.7365154,-9.150734,38.7365154",
+    "geom:latitude":38.736515,
+    "geom:longitude":-9.150734,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenida Miguel Bombarda 123, 2\u00ba",
+    "sg:city":"LISBOA",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1",
+    "sg:tags":[
+        "video",
+        "image-aquisiition",
+        "ocr",
+        "scanner",
+        "webcam",
+        "broadcast",
+        "software",
+        "police",
+        "euro"
+    ],
+    "sg:website":"http://www.capturix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862501,
+        102191581,
+        85633735,
+        101752087,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gIz9ruClPj2VUTnuYLVfx_38.736515_-9.150734@1308163242"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570869,
+    "wof:geomhash":"72e3b957c3ee6a582c412218508a8053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862501,
+            "region_id":85687367,
+            "venue_id":1108702551
+        }
+    ],
+    "wof:id":1108702551,
+    "wof:lastmodified":1474570869,
+    "wof:name":"CAPTURIX",
+    "wof:parent_id":85862501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "image-aquisiition",
+        "ocr",
+        "scanner",
+        "webcam",
+        "broadcast",
+        "software",
+        "police",
+        "euro"
+    ]
+},
+  "bbox": [
+    -9.150734,
+    38.7365154,
+    -9.150734,
+    38.7365154
+],
+  "geometry": {"coordinates":[-9.150734,38.7365154],"type":"Point"}
+}

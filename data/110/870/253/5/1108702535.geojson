@@ -1,0 +1,83 @@
+{
+  "id": 1108702535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.8085065,39.7365713,-8.8085065,39.7365713",
+    "geom:latitude":39.736571,
+    "geom:longitude":-8.808507,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pct. Joaquim Dias Ramadas N\u00famero 33, Loja 3",
+    "sg:city":"Leiria",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2410-115",
+    "sg:tags":[
+        "mobile",
+        "convergence",
+        "symbian",
+        "j2me",
+        "iphone",
+        "voip",
+        "sms",
+        "mms",
+        "android",
+        "microsoft-mediaroom",
+        "oracle-sdp",
+        "tv-widgets",
+        "softphone",
+        "toolbar"
+    ],
+    "sg:website":"http://www.wit-software.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uw7mAWhEJbU1lej4MQpQ9_39.736571_-8.808507@1308163240"
+    },
+    "wof:country":"PT",
+    "wof:created":1474570868,
+    "wof:geomhash":"9f2ebe4289213675d8498e9c173af2e7",
+    "wof:hierarchy":[],
+    "wof:id":1108702535,
+    "wof:lastmodified":1474570868,
+    "wof:name":"WIT Software",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "convergence",
+        "symbian",
+        "j2me",
+        "iphone",
+        "voip",
+        "sms",
+        "mms",
+        "android",
+        "microsoft-mediaroom",
+        "oracle-sdp",
+        "tv-widgets",
+        "softphone",
+        "toolbar"
+    ]
+},
+  "bbox": [
+    -8.8085065,
+    39.7365713,
+    -8.8085065,
+    39.7365713
+],
+  "geometry": {"coordinates":[-8.8085065,39.7365713],"type":"Point"}
+}
